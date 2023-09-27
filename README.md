@@ -1,2 +1,2 @@
 # mipt_data_science
-homeworks
+Здесь будут располагаться выполненые домашние задания по Python
