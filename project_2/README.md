@@ -46,7 +46,7 @@
 В папке `scripts` находятся скрипты создания таблиц. Ниже добавлены скриншоты создания в DBeaver
 
 Создание таблицы `location`
-![location](./images/create_location.png)
+![location](./images/create_loc.png)
 
 Создание таблицы `customer`
 ![location](./images/create_customer.png)
