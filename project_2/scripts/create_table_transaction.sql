@@ -3,7 +3,7 @@ CREATE TABLE transaction (
     product_id INTEGER,
     customer_id INTEGER,
     transaction_date DATE,
-    online_order CHAR(1),
+    online_order BOOLEAN,
     order_status VARCHAR(255),
     standard_cost NUMERIC(10, 2),
     FOREIGN KEY (product_id) REFERENCES product(product_id),
