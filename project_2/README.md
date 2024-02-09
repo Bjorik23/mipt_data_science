@@ -74,5 +74,7 @@
 Добавление данных в таблицу `transaction`
 ![location](./images/insert_transaction.png)
 
+После экспортировал данные из полученных таблиц в папку `export_from_db`
+
 ## Инструменты
 `DBeaver`, `Git`
