@@ -46,16 +46,16 @@
 В папке `scripts` находятся скрипты создания таблиц. Ниже добавлены скриншоты создания в DBeaver
 
 Создание таблицы `location`
-![location](project_2/images/create_location.png)
+![location](./images/create_location.png)
 
 Создание таблицы `customer`
-![location](project_2/images/create_customer.png)
+![location](./images/create_customer.png)
 
 Создание таблицы `product`
-![location](project_2/images/create_product.png)
+![location](./images/create_product.png)
 
 Создание таблицы `transaction`
-![location](project_2/images/create_transaction.png)
+![location](./images/create_transaction.png)
 
 ## Импорт данных из таблицы
 
@@ -63,16 +63,16 @@
 Данные были добавлены с помощью интерфейса DBeaver
 
 Добавление данных в таблицу `location`
-![location](project_2/images/insert_location.png)
+![location](./images/insert_location.png)
 
 Добавление данных в таблицу`customer`
-![location](project_2/images/insert_customer.png)
+![location](./images/insert_customer.png)
 
 Добавление данных в таблицу `product`
-![location](project_2/images/insert_product.png)
+![location](./images/insert_product.png)
 
 Добавление данных в таблицу `transaction`
-![location](project_2/images/insert_transaction.png)
+![location](./images/insert_transaction.png)
 
 ## Инструменты
 `DBeaver`, `Git`
